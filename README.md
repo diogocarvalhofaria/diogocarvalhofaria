@@ -20,19 +20,29 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
   <img width="12" />
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="Mysql logo"  />
+  <img width="12" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux logo"  />
+  <img width="12" />
+   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" alt="Jira logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="30" alt="Jenkins logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="30" alt="Bitbucket logo"  />
+  <img width="12" />
 </div>
 
 <h2 align="left">Minhas redes para comunicação</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ <a href="https://wa.me/5511995456630" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:di.c.faria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diogo-faria-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diogocarvalhofaria/diogocarvalhofaria/output/snake.svg" alt="Snake animation" />
 
 ###
