@@ -43,6 +43,38 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30" alt="GitLab logo" />
 </div>
 
+###
+
+<h2 align="left">Sobre Mim</h2>
+<p align="left">
+  Atualmente, meu foco principal é projetar e sustentar serviços de backend resilientes, garantindo que a infraestrutura acompanhe o crescimento do negócio. Gosto de resolver problemas complexos de arquitetura, saindo de soluções engessadas para infraestruturas próprias, ágeis e otimizadas.
+</p>
+<p align="left">
+  🎓 <strong>Formação:</strong><br>
+  - Pós-graduação em <i>Arquitetura e Gestão de Infraestrutura de TI</i> na UTFPR (Em andamento)<br>
+  - Especialização em <i>Data Science e Inteligência Artificial</i> na Uninter (Concluído)
+</p>
+
+###
+
+<h2 align="left">Projetos em Destaque</h2>
+<ul>
+  <li>
+    <strong>Integração Tray & Varejo Fácil (Freelance B2B):</strong> Desenvolvimento e gestão de uma integração robusta para um cliente real, conectando a plataforma de e-commerce Tray com o ERP Varejo Fácil. O projeto focou em garantir a sincronização de dados eficiente e a confiabilidade nas operações diárias do negócio.
+  </li>
+</ul>
+
+###
+
+<h2 align="left">O que estou aprofundando agora 🚀</h2>
+<p align="left">
+  - Conteinerização avançada e orquestração para ambientes de produção.<br>
+  - Criação de dashboards de observabilidade finos para caçar gargalos de performance.<br>
+  - Estratégias de saída de plataformas Serverless para infraestruturas próprias em VPS.
+</p>
+
+###
+
 <h2 align="left">Minhas redes para comunicação</h2>
 
 <div align="center">
