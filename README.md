@@ -1,10 +1,11 @@
-<h2 align="left">Hello, my name is Diogo, i'm from Jundiai region, i love programing</h2>
+<h2 align="left">Olá, eu sou o Diogo! 👋</h2>
+<h3 align="left">Desenvolvedor Backend focado em Arquitetura, Escalabilidade e Observabilidade</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogocarvalhofaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarvalhofaria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogocarvalhofaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarvalhofaria&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -12,24 +13,34 @@
 <h2 align="left">Tecnologias do meu dia a dia</h2>
 
 <div align="center">
-  <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo" />
+  <!-- Backend & Linguagens -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="NestJS logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
+  
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo" />
   <img width="12" />
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="Mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL logo" />
   <img width="12" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux logo"  />
+  
+  <!-- Infraestrutura & DevOps -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker logo" />
   <img width="12" />
-   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" alt="Jira logo"  />
+  <img src="https://img.shields.io/badge/Portainer-13B5EA?style=for-the-badge&logo=portainer&logoColor=white" height="30" alt="Portainer logo" />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="30" alt="Jenkins logo"  />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" height="30" alt="DigitalOcean logo" />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="30" alt="Bitbucket logo"  />
+  
+  <!-- Observabilidade & Ferramentas -->
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="30" alt="Datadog logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="30" alt="Grafana logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30" alt="GitLab logo" />
 </div>
 
 <h2 align="left">Minhas redes para comunicação</h2>
@@ -43,6 +54,3 @@
 ###
 
 <br clear="both">
-
-
-###
